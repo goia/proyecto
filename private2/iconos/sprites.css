@@ -1,0 +1,136 @@
+.calendario, .calendarioGris, .contactos, .contactosGris, .contratos, .contratosGris, .cuestionarios, .cuestionariosGris, .dashboard, .dashboardGris, .FAQ, .FAQGris, .flujoTrabajo, .flujoTrabajoGris, .gastos, .gastosGris, .Informes, .InformesGris, .tareas, .tareasGris, .trabajo, .trabajoGris{
+	background: url(sprites.png) no-repeat;
+}
+
+.calendario{
+	background-position: -50px -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.calendarioGris{
+	background-position: -96px -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.contactos{
+	background-position: -96px -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.contactosGris{
+	background-position: -96px -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.contratos{
+	background-position: -96px -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.contratosGris{
+	background-position: -96px -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.cuestionarios{
+	background-position: -96px -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.cuestionariosGris{
+	background-position: -96px -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.dashboard{
+	background-position: -96px -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.dashboardGris{
+	background-position: -96px -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.FAQ{
+	background-position: -96px -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.FAQGris{
+	background-position: -96px -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.flujoTrabajo{
+	background-position: -48px -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.flujoTrabajoGris{
+	background-position: 0 -533px ;
+	width: 180px;
+	height: 853px;
+}
+
+.gastos{
+	background-position: -7px -470px ;
+	width: 180px;
+	height: 853px;
+}
+
+.gastosGris{
+	background-position: -71px -460px ;
+	width: 180px;
+	height: 853px;
+}
+
+.Informes{
+	background-position: -13px 0;
+	width: 180px;
+	height: 853px;
+}
+
+.InformesGris{
+	background-position: -44px 0;
+	width: 180px;
+	height: 853px;
+}
+
+.tareas{
+	background-position: 0 0;
+	width: 180px;
+	height: 853px;
+}
+
+.tareasGris{
+	background-position: 0 0;
+	width: 180px;
+	height: 853px;
+}
+
+.trabajo{
+	background-position: 0 0;
+	width: 180px;
+	height: 853px;
+}
+
+.trabajoGris{
+	background-position: -96px 0;
+	width: 180px;
+	height: 853px;
+}
+
